@@ -12,4 +12,5 @@ Se va alege o imagine introducand de la tastatura numele acesteia sau doar intro
 Se va tasta apoi 1 sau 2 in functie de efectul care se doreste a fi aplicat:
 - pentru ajustare alb-negru
 - pentru contrast
+
 Va fi afisat in consola timpul de executie, precum si numele noii imagini editate si fisierul in care s-a salvat.
